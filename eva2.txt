@@ -1,0 +1,26 @@
+Para la segunda entrega:
+
+Se debe completar las funcionalidades del proyecto que anteriormente solo se desarrolló
+ la vista ahora hay que hacerlo funcional. A los que les tocó el tellevoapp deben dejar realizado que se pueda solicitar el viaje y este me deje hecha la ruta en el mapa y a los que les tocó registrapp debe ser capaz de poder realizar la asistencia por curso.
+Vamos a simular una cantidad de alumnos equis y a estos los vamos a crear cuentas de usuarios en nuestra base de datos. Para simular esta cantidad de cuentas vamos a tomar el API de randomuser y van a capturar 20 cuentas y las van a guardar en su base de datos para simular como que duoc nos facilita las cuentas de usuarios. Para ejecutar esto van a tener un botón oculto en algun lugar o al momento de crear la app se van a capturar del api se van a guardar en la BD, para poder visualizar las cuentas deben imprimirlas por consola o simplemente acceder a su propia api en donde van a estar guardadas las cuentas.
+Como se mencionó anteriormente uds deben contar con su propia api la cual es generada por JSON-SERVER y esta debe ser cargada y debe estar funcionando online para poder acceder a la información desde cualquier momento y lugar, como se vió en clases pueden usar el render.com para cargar el repositorio, si quieren usar otra plataforma para levantar el server pueden hacerlo pero que cumpla con las mismas características.
+Retomando un poco el punto 1 recuerden que deben utilizar algún plugin para poder generar el mapa y otro que genere el codigo QR y que lo lea
+El login debe ser funcionan tomando las credenciales anteriormente mencionadas.
+Las vistas deben estar en función de los perfiles, si uds entra por ej como conductor se tiene que mostrar solo las opciones del conductor o si uds entra como docente solo se tienen que ver las opciones del docente, etc.
+Se debe generar el APK de la aplicación y se debe instalar en el celular para la presentación.
+Todas las alertas deben estar generadas con sw2 para que el usuario sepa que sucede, no deben existir acciones las cuales no informan al usuario de lo que pasa con la aplicación.
+Deben utilizar dos APIS externas dándoles funcionalidad en su app.
+Al momento de iniciar la app, después del loading y antes del login debe aparecer una pagina con los términos y condiciones la cual no se pueda cerrar si no se seleccionan los términos y condiciones.
+Presentación:
+
+Todo el mundo debe expone, para practicar habilidades blandas.
+Se presenta tanto en el pc como en el celular desde el pc muestran el API y del celular la apk.
+Presentación con buena estructura.
+Envio:
+
+Dejar el proyecto en Git y drive.
+Enviar al correo: presentación, source code, enlace al api, enlace git y drive.
+Fecha de entrega:
+
+Domingo 22 de octubre plazo máximo para enviar todo.
+Si existe atraso con la entrega quedarán con nota min.

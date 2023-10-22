@@ -1,0 +1,7 @@
+
+link de la db de render
+https://usuarios-ijei.onrender.com
+
+para verla localmente
+json-server --watch users.json
+(en la carpeta donde esta json-server porsupuesto)

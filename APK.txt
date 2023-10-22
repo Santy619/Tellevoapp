@@ -1,0 +1,10 @@
+npm i -g @ionic/cli
+npm i @capacitor/core @capacitor/cli
+ionic build
+npx cap init
+npm install @capacitor/android
+npx cap add android
+npx cap open android (opcional solo para abrir android)
+
+-- Luego abrir el proyecto android en android studio
+-- Build - bundle apk (listo)

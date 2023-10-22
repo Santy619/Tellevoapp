@@ -1,0 +1,13 @@
+-necesito el codigo qr
+-una ventana emergente que avise al conductor cuando un estudiante lo selecciona
+-un historial de viajes
+-terminar la api de mapa
+- que pueda registrar su viaje
+-la cuenta de la persona
+-que el login y el register funcionen **
+-una ventana emergente que avise de un estudiante que quiere tomarlo
+-que el estudiane y el conductor confrmen el viaje con qr
+-api de mapa mapBOX
+
+----
+HACER UN SERVIDOR ONLINE CON RENDER/apI EN LINEA
